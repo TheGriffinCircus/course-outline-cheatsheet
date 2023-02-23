@@ -34,6 +34,7 @@
    - [] Booleans
    - [] Comparison Operators
    - [] Match Operator
+2. Exercises 
    - [] Fun Formulas
    - [] Card Counting
    - [] Habit Tracker
